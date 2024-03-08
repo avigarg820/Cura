@@ -8,7 +8,7 @@ Using Elementor, I created a WordPress website for Mohan Hospital & Ultrasound S
 3. Understand how, even without writing much code, things work together to create attractive websites.
 4. A new challenge for me was to consider how the website would appear on tablets and smartphones [New Learning].
 
-Project Link: https://github.com/avigarg820/Cura/assets/59176248/17e92e03-3143-4409-be18-fdb3bdb2dd8a
+Project Video: https://github.com/avigarg820/Cura/assets/59176248/17e92e03-3143-4409-be18-fdb3bdb2dd8a
 
 
 
