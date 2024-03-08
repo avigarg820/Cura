@@ -8,8 +8,13 @@ Using Elementor, I created a WordPress website for Mohan Hospital & Ultrasound S
 3. Understand how, even without writing much code, things work together to create attractive websites.
 4. A new challenge for me was to consider how the website would appear on tablets and smartphones [New Learning].
 
+Project Link: https://github.com/avigarg820/Cura/assets/59176248/17e92e03-3143-4409-be18-fdb3bdb2dd8a
+
+
+
 
 ----- Features----
 1. Live Google reviews shown on patients and Contact Form.
 2. Precise location for patients to reach the Hospital.
 3. Interactive animations for Home, Services, and Contact Us Pages like Symbolic Counters and Parallax Effect.
+
