@@ -1,6 +1,6 @@
 WELCOME TO MY PROFILE. You are reviewing Project Cura.
 Description:
-Using Elementor, I created a WordPress website for Mohan Hospital & Ultrasound Scan Centre, a multi-specialty Hospital. I completed work on the website in five days and with a few little tweaks.
+Using Elementor, I created a WordPress website for Mohan Hospital & Ultrasound Scan Centre, a multi-specialty Hospital. I completed work on the website in 3 days and with a few little tweaks.
 
 ----PRIMARY LESSONS----
 1. Taught me how to interact with clients and how to deliver on time for daily progress reports
